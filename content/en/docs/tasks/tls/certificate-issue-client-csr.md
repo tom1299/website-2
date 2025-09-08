@@ -15,7 +15,7 @@ weight: 80
 <!-- overview -->
 
 Kubernetes lets you use a public key infrastructure (PKI) to authenticate to your cluster
-as a client.
+as a clients.
 
 A few steps are required in order to get a normal user to be able to
 authenticate and invoke an API. First, this user must have an [X.509](https://www.itu.int/rec/T-REC-X.509) certificate
